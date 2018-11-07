@@ -6314,3 +6314,48 @@ a.text-dark:hover, a.text-dark:focus {
 
 .navbar .nav-item a:hover {
   text-decoration: underline; }
+
+.jumbotron {
+  background: url(../images/pirate-ship.jpg) no-repeat top;
+  background-size: cover;
+  min-height: 475px;
+  text-align: center;
+  color: white;
+  font-family: fantasy; }
+
+.display-4 {
+  margin-top: 245px;
+  font-size: 45px; }
+
+h2 {
+  font-family: fantasy;
+  font-weight: bold;
+  font-size: 30px; }
+
+h5 {
+  font-size: 18px; }
+
+p {
+  font-size: 13px;
+  margin-right: 30px; }
+
+.byline {
+  font-weight: bold;
+  margin-top: 10px;
+  margin-bottom: 0px; }
+
+.source {
+  font-style: italic; }
+
+.bio {
+  border-right: 1px solid gray; }
+
+footer {
+  text-align: center;
+  background-color: gray;
+  margin-left: 20px;
+  margin-right: 20px;
+  margin-top: 15px; }
+
+.carousel {
+  margin-bottom: 20px; }
